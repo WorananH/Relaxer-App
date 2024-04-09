@@ -13,6 +13,17 @@ The Relaxer App is a simple web application that helps users practice deep breat
 - Grow and shrink animations implemented with CSS
 - JavaScript used to create the breath animation effect
 
+## Technology Used
+
+- HTML
+- CSS Animation
+- JavaScript
+- Netlify
+
+## Demo
+
+You can see a live demo of the Breakout! Game [here](https://relaxer-mindfulness.netlify.app).
+
 ## Usage
 
 To use the Relaxer App, simply open the app in a web browser. The app will start at the top position, indicating the start of the breathing cycle. Follow the visual guide to breathe in, hold, and breathe out accordingly. The circle will expand during inhalation, hold its size during the breath-hold phase, and shrink during exhalation.
@@ -25,7 +36,7 @@ To use the Relaxer App, simply open the app in a web browser. The app will start
 
 ## Credits
 
-This project was inspired by [Brad Traversy ].
+This project was inspired by [Brad Traversy].
 
 ## License
 
